@@ -7,5 +7,7 @@
 # Удачи!
 
 [Задача 1](task1/task1.md) - [Решение](task1/solution.py) - [Тесты](task1/test_strict.py)
-[Задача 2](task2/task2.md) - [Решение](task2/solution.py) - [Тесты](task2/test_parse_animals.py)    
+
+[Задача 2](task2/task2.md) - [Решение](task2/solution.py) - [Тесты](task2/test_parse_animals.py)  
+
 [Задача 3](task3/task3.md) - [Решение](task2/solution.py) - [Тесты](task3/test_appearance.py)  
